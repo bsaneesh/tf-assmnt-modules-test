@@ -1,3 +1,4 @@
+/*
 resource_group     = "tf-assessment-rg"
 location           = "South India"
 vnetname           = "tf-assessment-vnet"
@@ -19,3 +20,4 @@ bepool-nameprefix  = "tf-assmnt-lb-be"
 lb-be              = "tf-assmnt-lb-be"
 lb-hp              = "tf-assmnt-lb-hp"
 lb-rule            = "tf-assmnt-rule"
+*/
